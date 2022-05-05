@@ -72,7 +72,7 @@ The main features of our system are given below.
 ![](https://github.com/athraju/2021_IBM_Code_Challenge_Greeenhouse_Monitoring_System/blob/main/data/docs/usecase_diagram.png)
 
 ## Accuracy
-![](https://github.com/athraju/2021_IBM_Code_Challenge_Greeenhouse_Monitoring_System/blob/main/data/docs/Accuracy%26loss.jpg)
+![](https://github.com/athraju/2021_IBM_Code_Challenge_Greeenhouse_Monitoring_System/blob/main/data/docs/extras/plant_disease.png)
 
 ## Team
 -  Athul Raju(https://github.com/athraju)
