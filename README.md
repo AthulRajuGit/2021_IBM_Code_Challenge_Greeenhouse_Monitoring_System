@@ -6,8 +6,9 @@ ___
 1. [Overview](#overview)
 2. [Problem Statement](#problem-statement)
 3. [Solution](#solution)
-4. [Solution Architecture](#solution_architecture)
-5. [Team](#team)
+4. [Solution Architecture](#solution-architecture)
+5. [Use Case Diagram](#use-case-diagram)
+6. [Team](#team)
 
 
 ## Overview
