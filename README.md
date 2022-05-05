@@ -43,6 +43,29 @@ Functionalities of the system
 
 ![](https://github.com/athraju/2021_IBM_Code_Challenge_Greeenhouse_Monitoring_System/blob/main/data/docs/architecture.png)
 
+## System Features
+The main features of our system are given below.
+
+###  1.Tracking phases of Plant Harvest
+   1.Keep tracking the yield to be harvested.
+   2.Continuous monitoring the plants using camera system.
+   3.Give an idea about the current growth.
+   4.Reduce the prodcution of wastage
+![]
+
+###  2.Identifying any disorder
+  1.Detect the disorder using the machine learning and computer vision.
+  2.Give an idea about the disease type to the user.
+  3.Reduce the production failure
+![]
+
+###  3.Tracking the Plant Growth
+  1.Data acquisition using Computer Vision.
+  2.Each plant has its own record (height, width etc.)
+  3.Identify the growing pattern
+  4.Reduce maintenance cost
+![]
+
 ## Use Case Diagram
 ![](https://github.com/athraju/2021_IBM_Code_Challenge_Greeenhouse_Monitoring_System/blob/main/data/docs/usecase_diagram.png)
 
