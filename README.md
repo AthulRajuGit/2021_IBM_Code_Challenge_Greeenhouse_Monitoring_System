@@ -42,7 +42,7 @@ Functionalities of the system
 6. Data Prediction and generate reports
 
 ![](https://github.com/athraju/2021_IBM_Code_Challenge_Greeenhouse_Monitoring_System/blob/main/data/docs/architecture.png)
-
+![](https://github.com/athraju/2021_IBM_Code_Challenge_Greeenhouse_Monitoring_System/blob/main/data/docs/architecture2.png)
 ## System Features
 The main features of our system are given below.
 
