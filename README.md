@@ -70,4 +70,7 @@ The main features of our system are given below.
 ![](https://github.com/athraju/2021_IBM_Code_Challenge_Greeenhouse_Monitoring_System/blob/main/data/docs/usecase_diagram.png)
 
 ## Team
-
+-  Athul Raju(https://github.com/athraju)
+-  Akshay K(https://github.com/Akshay12355)
+-  Jayanth Ramesh Nambiar(https://github.com/iampyari)
+-  Sreehari Chandran(https://github.com/TRAMPTIX)
