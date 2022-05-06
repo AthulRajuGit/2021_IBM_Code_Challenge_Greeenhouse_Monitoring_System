@@ -77,5 +77,5 @@ The main features of our system are given below.
 ## Team
 -  Athul Raju(https://github.com/athraju)
 -  Akshay K(https://github.com/Akshay12355)
--  Jayanth Ramesh Nambiar(https://github.com/iampyari)
+-  Jayanth Ramesh Nambiar(https://github.com/JayanthR543)
 -  Sreehari Chandran(https://github.com/TRAMPTIX)
