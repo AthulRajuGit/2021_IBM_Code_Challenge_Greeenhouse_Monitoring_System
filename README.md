@@ -7,8 +7,10 @@ ___
 2. [Problem Statement](#problem-statement)
 3. [Solution](#solution)
 4. [Solution Architecture](#solution-architecture)
-5. [Use Case Diagram](#use-case-diagram)
-6. [Team](#team)
+5. [System Features](#system-features)
+6. [Use Case Diagram](#use-case-diagram)
+7. [Accuracy](#accuracy)
+8. [Team](#team)
 
 
 ## Overview
@@ -68,6 +70,9 @@ The main features of our system are given below.
 
 ## Use Case Diagram
 ![](https://github.com/athraju/2021_IBM_Code_Challenge_Greeenhouse_Monitoring_System/blob/main/data/docs/usecase_diagram.png)
+
+## Accuracy
+![](https://github.com/athraju/2021_IBM_Code_Challenge_Greeenhouse_Monitoring_System/blob/main/data/docs/extras/plant_disease.png)
 
 ## Team
 -  Athul Raju(https://github.com/athraju)
